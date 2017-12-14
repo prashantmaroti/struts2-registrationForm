@@ -1,0 +1,13 @@
+.body {
+	background-color:black;
+}
+
+.fname {
+	float:left;
+	margin-right:10px;
+}
+
+.lname {
+	margin-left:10px;
+	float:right;
+}
